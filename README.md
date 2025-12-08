@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Mouncef Ikhoubi
-
-🎓 **Final-year Software Engineering Student** at ENSEM Casablanca  
+ 
 🔧 Passionate about **Backend Development**, **DevOps**, and **AI/ML**
 
 ---
