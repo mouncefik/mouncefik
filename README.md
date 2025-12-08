@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mouncef Ikhoubi
- 
+  
 🔧 Passionate about **Backend Development**, **DevOps**, and **AI/ML**
 
 ---
@@ -32,13 +32,9 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mouncefik&show_icons=true&theme=default&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mouncefik&layout=compact&theme=default&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mouncefik&theme=default&hide_border=true)
+![GitHub Contributions](https://ghchart.rshah.org/mouncefik)
 
 ---
 
