@@ -1,6 +1,4 @@
 # 👋 Hi, I'm Mouncef Ikhoubi
-  
-🔧 Passionate about **Backend Development**, **DevOps**, and **AI/ML**
 
 ---
 
