@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mouncef Ikhoubi
+# 👋 Hi
 
 ---
 
