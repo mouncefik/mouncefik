@@ -50,13 +50,7 @@
 - 💡 Building projects with **LLMs** and **RAG pipelines**
 
 ---
-
-## 📫 Connect with me
-
-[![Email](https://img.shields.io/badge/-contact@mouncef.tech-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:contact@mouncef.tech)
 [![LinkedIn](https://img.shields.io/badge/-Mouncef%20Ikhoubi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouncefikhoubi)
-[![GitHub](https://img.shields.io/badge/-mouncefik-181717?style=flat&logo=github&logoColor=white)](https://github.com/mouncefik)
-
 ---
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
