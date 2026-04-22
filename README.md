@@ -48,9 +48,6 @@
 - 🔭 Working on **AI-powered applications** and **microservices**
 - 🌱 Learning **Kubernetes**, **Terraform**, and **MLOps**
 - 💡 Building projects with **LLMs** and **RAG pipelines**
-
----
-[![LinkedIn](https://img.shields.io/badge/-Mouncef%20Ikhoubi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/mouncefikhoubi)
 ---
 
 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
