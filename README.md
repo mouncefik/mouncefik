@@ -30,12 +30,6 @@
 
 ---
 
-## 📊 GitHub Activity
-
-![GitHub Contributions](https://ghchart.rshah.org/mouncefik)
-
----
-
 ## 🏆 Certifications
 
 - ☁️ AWS Cloud Quest: Cloud Practitioner
